@@ -1,0 +1,3 @@
+[submodule "2048-python-custom-player"]
+	path = 2048-python-custom-player
+	url = git@github.com:paulvinell/2048-python-custom-player.git
